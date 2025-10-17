@@ -1,0 +1,1 @@
+Upload these files to a public GitHub repo and enable GitHub Pages. Replace youremail@example.com and the App Store link.
